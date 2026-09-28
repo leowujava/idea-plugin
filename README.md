@@ -40,7 +40,7 @@ This Fancy IntelliJ Platform Plugin is going to be your implementation of the br
 
 ---
 
-hi
+hi 问请问
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
